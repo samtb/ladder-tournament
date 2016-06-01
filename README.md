@@ -24,7 +24,7 @@ player7  -- Final strength:4  -- Final rank:7  -- # of times initiated challenge
 player2  -- Final strength:4  -- Final rank:8  -- # of times initiated challenges:1  -- Total rounds played:3  -- # of rounds ended in 1st place:0<br />
 <br />
 <br />
-Example run with 10 'players' and 100000 total 'games':<br />
+Example run with 10 'players' and 10000 total 'games':<br />
 ./ranking.py -p 10 -r 10000 -v<br />
 <br />
 
