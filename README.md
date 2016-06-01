@@ -13,7 +13,6 @@ optional arguments:<br />
 Example default run: <br />
 ./ranking.py<br />
 <br />
-******************************************************************<br />
 <br />
 player1  -- Final strength:18  -- Final rank:1  -- # of times initiated challenges:1  -- Total rounds played:7  -- # of rounds ended in 1st place:6<br />
 player3  -- Final strength:31  -- Final rank:2  -- # of times initiated challenges:2  -- Total rounds played:10  -- # of rounds ended in 1st place:4<br />
@@ -28,8 +27,7 @@ player2  -- Final strength:4  -- Final rank:8  -- # of times initiated challenge
 Example run with 10 'players' and 100000 total 'games':<br />
 ./ranking.py -p 10 -r 10000 -v<br />
 <br />
-******************************************************************<br />
-<br />
+
 player1  -- Final strength:7527  -- Final rank:1  -- # of times initiated challenges:957  -- Total rounds played:2186  -- # of rounds ended in 1st place:1038<br />
 player9  -- Final strength:6791  -- Final rank:2  -- # of times initiated challenges:1001  -- Total rounds played:1990  -- # of rounds ended in 1st place:758<br />
 player7  -- Final strength:7218  -- Final rank:3  -- # of times initiated challenges:1012  -- Total rounds played:2067  -- # of rounds ended in 1st place:857<br />
@@ -41,8 +39,6 @@ player3  -- Final strength:6596  -- Final rank:8  -- # of times initiated challe
 player8  -- Final strength:6427  -- Final rank:9  -- # of times initiated challenges:1045  -- Total rounds played:1906  -- # of rounds ended in 1st place:637<br />
 player2  -- Final strength:7524  -- Final rank:10  -- # of times initiated challenges:1024  -- Total rounds played:2153  -- # of rounds ended in 1st place:922<br />
 <br />
-<br />
-******************************************************************<br />
 <br />
 Ladder Competition Simulation Summary<br />
 <br />
